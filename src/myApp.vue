@@ -129,7 +129,7 @@ export default {
   background-clip: border-box;
   width: 30%;
   border-style: dotted none none none;
-  border-width: 5px;
+  border-width: 2px;
   padding-bottom: 5px;
 }
 .tab-button:hover{
